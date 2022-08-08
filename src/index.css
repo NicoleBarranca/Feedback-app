@@ -8,7 +8,7 @@
 
 body {
   font-family: "Poppins", sans-serif;
-  background-color: #202142;
+  background-color: #e5e5e5;
   color: #fff;
   line-height: 1.6;
 }
@@ -87,7 +87,7 @@ header {
 
 .rating li:hover,
 .num-display {
-  background: #ff6a95;
+  background: #fca311;
   color: #fff;
 }
 
@@ -96,7 +96,7 @@ header {
 }
 
 [type="radio"]:checked ~ label {
-  background: #ff6a95;
+  background: #fca311;
   color: #fff;
 }
 
@@ -156,11 +156,11 @@ input:focus {
 }
 
 .btn-primary {
-  background-color: #202142;
+  background-color: #14213d;
 }
 
 .btn-secondary {
-  background: #ff6a95;
+  background: #fca311;
 }
 
 .btn:hover {
@@ -200,7 +200,7 @@ input:focus {
 }
 
 .about-link a:hover {
-  color: #ff6a95;
+  color: #fca311;
 }
 
 .about h1 {
